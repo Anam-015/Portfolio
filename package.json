@@ -1,0 +1,24 @@
+{
+  "name": "anam-nayab-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Anam Nayab built with Next.js App Router, TypeScript, and Tailwind CSS",
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.6.2",
+    "lucide-react": "^1.74.0",
+    "next": "^16.4.6",
+    "postcss": "^8.5.33",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2"
+  }
+}
